@@ -22,3 +22,4 @@ Using dictation key in mac keyboard to mute/unmute Zoom and Microsoft teams
 - [Ctrl Key → Hyper Key (⌃⌥⇧⌘)](https://ke-complex-modifications.pqrs.org/?q=hyper)
 - [Local testing rules](https://github.com/pqrs-org/KE-complex_modifications#local-testing)
 - [hs.keycodes](http://www.hammerspoon.org/docs/hs.keycodes.html#map)
+- [How to Find an App's Bundle Identifier](https://macbundleid.lemonproductions.ca/#how-to-find-an-app's-bundle-identifier)
